@@ -1,4 +1,5 @@
-# inventaris-ba-lelang [Screeenshot](https://bramastyafr.wixsite.com/mysite/portfolio)
+# inventaris-ba-lelang 
+### Screenshot [https://bramastyafr.wixsite.com/mysite/portfolio](https://bramastyafr.wixsite.com/mysite/portfolio)
 
 ## Login
 ### 1. Admin
